@@ -3,7 +3,7 @@ Thanks to replayreb for the [base tutorial](https://www.instructables.com/Add-Au
 
 ## Necessary Hardware
 ### Soundcard
-For the USB Soundcard i use a Behringer UFO202 U-Phono USB Audio Interface, which can be purchased on Amazon in Germany with this [link](https://www.amazon.de/-/en/gp/product/B07QGM13RX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+For the USB Soundcard I use a Behringer UFO202 U-Phono USB Audio Interface, which can be purchased on Amazon in Germany with this [link](https://www.amazon.de/-/en/gp/product/B07QGM13RX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ### Raspberry Pi Zero
 You will need a [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/) and a few extras:
