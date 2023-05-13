@@ -18,7 +18,7 @@ You will need a [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspber
 2. Plug in your SD Card
 3. Choose the default OS
     ![Image](./images/choose_os.png "OS")
-4. Add the following settings with the settings button right in the Imager App. Its important that the username is pi, choose passwords as you want
+4. Add the following settings with the settings button on the bottom right in the Imager App. Its important that the username is pi, choose passwords as you want
     ![Image](./images/settings-1.png "Settings 1")
     ![Image](./images/settings-2.png "Settings 2")
 
