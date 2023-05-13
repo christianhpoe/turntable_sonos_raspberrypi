@@ -121,7 +121,7 @@ You will need a [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspber
     sudo chmod 777 /home/pi/darkice.sh
     ```
 
-7. Start the service (optional here)
+7. Start the service
     ```
     sudo service icecast2 start
     ```
